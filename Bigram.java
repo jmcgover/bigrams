@@ -22,6 +22,9 @@ public class Bigram{
    public boolean startsWithSoft(String key){
       return first.toLowerCase().startsWith(key.toLowerCase());
    }
+   public boolean startsWith(String key){
+      return first.startsWith(key);
+   }
    public static boolean isSentenceOver(ArrayList<Bigram> generated){
       Bigram lastBigram = generated.get(generated.size() - 1);
       return (lastBigram.lastChar() == '.' && 

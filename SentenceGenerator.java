@@ -22,7 +22,7 @@ public class SentenceGenerator{
       printOption("[-h  | --help]","\t\tdisplays this help and exits");
       printOption("[-i | --in]","\t\tloads text from stdin");
       printOption("[<-l | --limit> numChars]","restricts length to numChars");
-      printOption("[<-t  | --hashtag> #tag]","adds ' #tag' to end of sentence");
+      printOption("[<-t  | --hashtag> \'#tag\']","adds ' #tag' to end of sentence");
       printOption("[<-r  | --results> filename]","explicitly name the results file");
       System.exit(1);
    }
@@ -85,6 +85,7 @@ public class SentenceGenerator{
          }
          // Starts with
          if (args[i].equals("-s") || args[i].equals("--starts-with")) {
+            startsWith = true;
             startingWord = args[++i];
             System.err.println("Starts with '" + startingWord + "'.");
          }
@@ -93,6 +94,10 @@ public class SentenceGenerator{
       catch(IndexOutOfBoundsException e){
          System.err.println(args[args.length - 1] + " needs an argument.");
          System.exit(1);
+      }
+      // Another Help Check
+      if (args[i].equals("-h") || args[i].equals("--help")) {
+         printUsage();
       }
       // Read input filename
       try{
@@ -112,7 +117,7 @@ public class SentenceGenerator{
          outputFilename = "result_" + inputFilename;
       }
 
-      // Make PrintStream
+      // Make Appropriate PrintStream
       Scanner in = null;
       if (readStdin) {
          in = new Scanner(System.in);
@@ -160,47 +165,75 @@ public class SentenceGenerator{
 
       // Generate sentence
       System.err.println("Generating sentence...");
-      Random random = new Random();
-      int size = bigrams.size();
-      ArrayList<Bigram> generated = new ArrayList<Bigram>();
-      Bigram randomBigram = bigrams.get(random.nextInt(size));
-      // Find beginning
-      System.err.println("Looking for start...");
-      while (!randomBigram.startsSentence()) {
-         randomBigram = bigrams.get(random.nextInt(size));
-      }
-      generated.add(randomBigram);
-         System.err.println("Added: " + randomBigram);
-
-      // Add to as long as we can link them together.
-      randomBigram = bigrams.get(random.nextInt(size));
-      System.err.println("Generating sentence...");
-      while (!Bigram.isSentenceOver(generated)){
-         randomBigram = bigrams.get(random.nextInt(size));
-         while ( !randomBigram.canLinkTo(generated)) {
+      String sentence = null;
+      do {
+         Random random = new Random();
+         int size = 0;
+         ArrayList<Bigram> generated = new ArrayList<Bigram>();
+         Bigram randomBigram = null;
+         // Find beginning
+         if (startsWith) {
+            System.err.println("Looking for '" + startingWord + "'...");
+            ArrayList<Bigram> starters = new ArrayList<Bigram>();
+            // Add all that start with it
+            for (Bigram b : bigrams) {
+               if (b.startsWith(startingWord)) {
+                  starters.add(b);
+               }
+            }
+            // If empty, quit, because we can't do it.
+            if (starters.size() == 0) {
+               System.err.println("Could not find any bigrams starting with '" + startingWord + "'.");
+               System.exit(0);
+            }
+            // Otherwise, let it start the generated sentence
+            else {
+               size = starters.size();
+               randomBigram = starters.get(random.nextInt(size));
+               generated.add(randomBigram);
+            }
+         }
+         // Randomly find a starting dude
+         else {
             randomBigram = bigrams.get(random.nextInt(size));
+            System.err.println("Looking for start...");
+            while (!randomBigram.startsSentence()) {
+               randomBigram = bigrams.get(random.nextInt(size));
+            }
+            generated.add(randomBigram);
          }
          System.err.println("Added: " + randomBigram);
-         generated.add(randomBigram);
-      }
-//      for (Bigram buh : generated) {
-//         System.err.print(buh + " ");
-//      }
 
-      String sentence = Bigram.toSentence(generated);
-      System.err.println();
-      System.err.println(sentence);
-//      outStream.println(sentence);
-      try {
-         Date date = new Date();
-          PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(outputFilename, true)));
-          out.println(date);
-          out.println(sentence);
-          out.println();
-          out.close();
-      } catch (IOException e) {
-          //exception handling left as an exercise for the reader
-          System.err.println("couldn't append to '" + outputFilename + "' for some reason");
-      }
+         // Add to as long as we can link them together.
+         size = bigrams.size();
+         randomBigram = bigrams.get(random.nextInt(size));
+         System.err.println("Generating sentence...");
+         while (!Bigram.isSentenceOver(generated)){
+            randomBigram = bigrams.get(random.nextInt(size));
+            while ( !randomBigram.canLinkTo(generated)) {
+               randomBigram = bigrams.get(random.nextInt(size));
+            }
+            System.err.println("Added: " + randomBigram);
+            generated.add(randomBigram);
+         }
+         sentence = Bigram.toSentence(generated);
+         sentence += hashtag;
+         System.err.println();
+         System.err.println(sentence);
+         if (limitLength) {
+            System.err.println("Length: " + sentence.length());
+         }
+         try {
+            Date date = new Date();
+             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(outputFilename, true)));
+             out.println(date);
+             out.println(sentence);
+             out.println();
+             out.close();
+         } catch (IOException e) {
+             //exception handling left as an exercise for the reader
+             System.err.println("couldn't append to '" + outputFilename + "' for some reason");
+         }
+      } while(limitLength && sentence.length() > charLimit);
    }
 }
