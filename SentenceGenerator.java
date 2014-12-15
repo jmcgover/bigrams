@@ -59,7 +59,7 @@ public class SentenceGenerator{
       return randomBigram;
    }
    // Find first with key
-   public Bigram findStart(String key){
+   public Bigram findStart(String key) throws NoSuchElementException{
       System.err.println("Looking for '" + key + "'...");
       ArrayList<Bigram> starters = new ArrayList<Bigram>();
       for (Bigram b : bigrams) {

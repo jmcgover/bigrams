@@ -39,7 +39,7 @@ public class Driver{
    public static void main(String[] args){
       // Arg Check
       if (args.length < 1) {
-         printUsage("Please provide at least an input filename for saving the results.");
+         printUsage("Please provide at least an input filename.");
       }
       boolean readStdin = false;
       boolean limitLength = false;
@@ -160,6 +160,7 @@ public class Driver{
          if (limitLength) {
             System.err.println("Length: " + sentence.length());
          }
+         // Saves to file named "result_<inputfilename>"
          try {
             Date date = new Date();
             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(outputFilename, true)));
@@ -172,5 +173,14 @@ public class Driver{
             System.err.println("couldn't append to '" + outputFilename + "' for some reason");
          } // CATCH
       } while(limitLength && sentence.length() > charLimit);
+      if (limitLength && charLimit <= 140) {
+         Updater newUpdate = new Updater();
+         if ( newUpdate.updateStatus(sentence) ){
+            System.err.println("Successful update!");
+         }
+         else {
+            System.err.println("Could NOT update status... :(");
+         }
+      }
    }
 }
