@@ -30,6 +30,7 @@ public class Bigram{
       return (lastBigram.lastChar() == '.' && 
          !(lastBigram.second.equals("Mrs.") 
                || lastBigram.second.equals("Mr.")
+               || lastBigram.second.endsWith("e.g.")
                || lastBigram.second.equals("Ms.")))
          || lastBigram.lastChar() == '?'
          || lastBigram.lastChar() == '!';
