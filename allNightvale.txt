@@ -1829,7 +1829,7 @@ It does not appear to be difficult to open. All you would need to do is remove a
 
 You do not open it.
 
-You decide, instead, to go to the Moonlight All-Night Diner, and have a slice of pie.
+You decide, instead, to go to the Moonlite All-Nite Diner, and have a slice of pie.
 
 The wind is hot, like always, and smells like honey and mud.
 
@@ -1843,7 +1843,7 @@ You turn your headlights back on, and all you see is a road. Just asphalt. Just 
 
 And you pass a man waving semaphore flags indicating that the speed limit for this stretch is 45.
 
-The Moonlight All-Night is radiant green; a slab of mint light in the warm darkness. You squint when you see it, like it hurts your eyes, but it does not hurt your eyes. You park near the front door.
+The Moonlite All-Nite is radiant green; a slab of mint light in the warm darkness. You squint when you see it, like it hurts your eyes, but it does not hurt your eyes. You park near the front door.
 
 A man rolls by on the ground, his eyes bleary and sightless, whispering the word "mudwomb" over and over. But you don’t have the money to tip him, so you go inside.
 
@@ -1911,7 +1911,7 @@ A purplish cloud hangs over the town, glittering occasionally as it rotates.
 
 The whole works.
 
-You drive past the Moonlight All-Night — still aglow and full of people slowly eating what sounds good only late at night, and Teddy Williams’ Desert Flower Bowling Alley and Arcade Fun Complex — which has taken to not only locking but barricading its doors at closing time. You pass by City Hall which, as always, is completely shrouded after dark in black velvet.
+You drive past the Moonlite All-Nite — still aglow and full of people slowly eating what sounds good only late at night, and Teddy Williams’ Desert Flower Bowling Alley and Arcade Fun Complex — which has taken to not only locking but barricading its doors at closing time. You pass by City Hall which, as always, is completely shrouded after dark in black velvet.
 
 Moving farther out, following the pull of the distant, uncertain moon, you pass by the Car Lot (where the salesmen have been put away for the night), and Old Woman Josie’s house (where the only sign that the unassuming little home could be a place of residence for Angels is the bright halo of heavenly light surrounding it, and the sign out front that says Angels’ Residence).
 
@@ -1998,6 +1998,8 @@ It’s so close now.
 You see it just above you. Maybe even if you tried very hard, you could touch it.
 
 You reach up…
+
+
 
 
 
@@ -4243,7 +4245,7 @@ More on our missing mayor:
 
 Listeners, this might be worse than I could have imagined. I’m receiving word that Old Woman Josie and a gentleman that may or may not be an Angel friend of hers — depending on whether or not Angels are real, or if they are real, but aren’t really friends with Josie, or not real but suddenly became real because Josie willed them into existence.
 
-However it is, Josie and her exceptionally tall winged friend saw Mayor Winchell earlier this morning near the Moonlight All-Night Diner, talking to a man in an offensively cartoon-ish Native American headdress.
+However it is, Josie and her exceptionally tall winged friend saw Mayor Winchell earlier this morning near the Moonlite All-Nite Diner, talking to a man in an offensively cartoon-ish Native American headdress.
 
 Listeners, that is most certainly the Apache Tracker, and look — I don’t know what he is up to, but everywhere he goes, nothing good happens.
 
@@ -7535,7 +7537,7 @@ Stay tuned next for an hour that will feel like minutes but will, in actuality, 
 
 Goodnight, Night Vale. Goodnight.
 
-Today’s Proverb: A journey of a thousand miles begins with a single command from a satellite-activated mind control chip.Flying is actually the safest mode of transportation. The second-safest is dreaming. The third-safest is decomposing into rich earth and drifting away with the wind and rain.
+Today’s Proverb: A journey of a thousand miles begins with a single command from a satellite-activated mind control chip.﻿Flying is actually the safest mode of transportation. The second-safest is dreaming. The third-safest is decomposing into rich earth and drifting away with the wind and rain.
 
 Welcome to Night Vale.
 
@@ -7565,7 +7567,7 @@ StrexCorp management released a series of flares from the darkened horizon which
 
 
 
-Also, and I don’t even know why I’m bringing this up, there was a new woman drinking coffee at the Moonlight All-Night Diner this morning. She smiled twice, and frowned once. And her fingers tapped out a rhythm. There was nothing unusual about the rhythm. She ordered a second coffee, she–
+Also, and I don’t even know why I’m bringing this up, there was a new woman drinking coffee at the Moonlite All-Nite Diner this morning. She smiled twice, and frowned once. And her fingers tapped out a rhythm. There was nothing unusual about the rhythm. She ordered a second coffee, she–
 
 THE WOMAN FROM ITALY
 
@@ -7871,13 +7873,7 @@ SO GOODNIGHT, NIGHT VALE.
 
 GOODNIGHT.
 
-Today’s proverb: Your Bitcoin address is your middle name, followed by the name of your first pet, and the first street you lived on.
-
-
-
-
-
-﻿The riddle says, “He walks on four legs in the morning. He walks on two legs at midday. And at night, he slithers from dream to dream effortlessly, like the air we breathe. And we love him.”
+Today’s proverb: Your Bitcoin address is your middle name, followed by the name of your first pet, and the first street you lived on.﻿The riddle says, “He walks on four legs in the morning. He walks on two legs at midday. And at night, he slithers from dream to dream effortlessly, like the air we breathe. And we love him.”
 
 Welcome to Night Vale.
 
@@ -9853,17 +9849,23 @@ This is a story about them.
 
 They sit in a car, much like your own, perhaps. Do you drive a black sedan with tinted windows, into which innocent people disappear forever? Then it is very, very much like your own.
 
+
+
 There are two men in the car. The man who is not tall watches a house through the window. He makes no attempt to hide what he is doing.
 
 The car is similarly clear about its existence.
 
 What they do is secret, but there is no need to hide it. Not in this town.
 
+
+
 For instance: this day, the radio has just started narrating what they do as they do it, for all to hear.
 
 The man who is not tall glances down at the radio. Not annoyed, or concerned, or afraid. He just looks at it, because that is what his eyes do right then. And then he looks back at the house, as the man on the radio says that he looks back at the house.
 
 The one who is not short is supposed to be watching the house as well. Four eyes are better than two, seven eyes are better than three, and so on. But he is not watching the house. He’s looking down at a crossword puzzle, on which he has just written, “TEETH” for the fifth time. This iteration fits neatly into the horizontal of another.
+
+
 
 He considers the crossword for a long moment. His partner only considers the house.
 
@@ -9887,15 +9889,21 @@ The two men and the car, along with the other blindfolded man, leave Coyote Corn
 
 He often voices what he is thinking of doing, and rarely does any of those things.
 
+
+
 “That would have been nice,” says the one who is not tall.
 
 “Yes, it would have been,” says the other, a tad dreamily perhaps. That is not an adverb that is supposed to crop up in a car of this description. Few adverbs are.
+
+
 
 “Mmmmm mmmmmmmmm mmmmMMMmmm mmmmmmm mmmmmmmmm,” says the man with the hood over his head.
 
 Forget him. This is a story about them.
 
-That part of their work done, they drive to the Moonlight All-Night Diner. It is not night, but the neon is on – an insubstantial wisp of green in a larger insubstantial wisp of blue.
+
+
+That part of their work done, they drive to the Moonlite All-Nite Diner. It is not night, but the neon is on – an insubstantial wisp of green in a larger insubstantial wisp of blue.
 
 They are narrated along by the radio, until the man who is not tall turns it off.
 
@@ -9905,11 +9913,15 @@ In the parking lot, the man who is not short looks up.
 
 “What is what?” says the other.
 
+
+
 “I saw something,” he says, “for a moment. Just there, for a moment.”
 
 He points again. Again, there is nothing. There couldn’t have been less.
 
 “Oh, I’m sure it was…” continues the man who is not short, but he does not say what he is sure it was. The man who is not tall considers his partner for a moment, and shakes his head.
+
+
 
 Inside the diner, inside a booth, after menus and waters, they dig into matching turkey clubs.
 
@@ -9929,11 +9941,15 @@ Bites of sandwich, bits of time.
 
 The man who is not short eats a couple. He knows what the man who is not tall means by offering the fries, because they have worked together a long time. And also because the radio explained it to him, just then.
 
+
+
 Outside, the blindfolded man sits in the car, the desert heat trapped within by the glass.
 
 Don’t worry about it.
 
 After lunch, the three men drive to the industrial part of town, which was set aside by the City Council to be the industrial part of town some time ago.
+
+
 
 “Yes,” the Council said. “This area around here will be pretty industrial. Warehouses, and factories, and things like that. Some graffiti, and chain-link fences.”
 
@@ -9969,7 +9985,11 @@ They turn back to each other.
 
 “Oh, is it?” says the man who is not short. He squints up at what he sees. “I was worried that it wasn’t very good, at all!”
 
+
+
 “Aaaanyway,” says the supervisor, “now the city has declared war in revenge. Although they haven’t yet figured out it was us stealing the buildings — they just declared a general war, in the name of their god, Huntokhar, on everyone from the ‘upper world,’ as they call us. This war has been raging for almost a year now. People have died, yes, but listen – people die all the time, for all different kinds of reasons. I wouldn’t worry, if I were you.”
+
+
 
 “Hold on,” says the supervisor. She mumbles instructions into a walkie talkie, and a series of ‘yes sirs’ and ‘no sirs’ and hawk shrieking sounds come in response.
 
@@ -9981,13 +10001,21 @@ And then the voice on the radio coming from the car changes its story. They all 
 
 Even the man on the radio does not know why he changes the story, or where this other story comes from. He does not always understand everything he does. Sometimes he does understand, but he hides it from you.
 
+
+
 In any case, here is a new story, one he tells without regard for why he is telling it:
 
+
+
 Somewhere else, not here, there is a woman wandering a desert – a desert not unlike this one, but not like this one either – it’s not the same desert, I need to clarify that.
+
+
 
 Also, with her, are great masked warriors – women and men of enormous size who listen as she speaks, and follow her as she walks. She is winning them over because she has survived so much. She is young, but in her experience she is as lost and scared and ancient as the rest of them.
 
 Her feet hurt. They hurt. She keeps walking, and they keep following.
+
+
 
 Beyond her, no longer just on the horizon, much closer than that, is a light spreading across the desert. The light is alive, and malicious, and vast, and encroaching. It buzzes and shines and everything about it hurts those who are close to it, and destroys those who are within it. It spreads – not just in the desert I am talking about – it spreads in different forms, in deserts not unlike it. In deserts very similar to the one I am talking about now. Not always in the same form, not always as light at all, but with the same intent: to devour everything until there is nothing left. It is a Smiling God of terrible power and ceaseless appetite.
 
@@ -9999,9 +10027,13 @@ The man on the radio returns to the story about them. He does not know how he kn
 
 But anyway, this is a story about them. And so you do not care about anyone but them.
 
+
+
 They, and their supervisor, are listening with interest to what just happened on the radio. The man who is not tall has taken notes.
 
 “I’ll look into that,” he says. “It is exactly as we suspected,” he does not say. He did not suspect any of that.
+
+
 
 “Someone has to be to blame,” the supervisor says again, gesturing this time directly at the blindfolded man.
 
@@ -10009,15 +10041,21 @@ They, and their supervisor, are listening with interest to what just happened on
 
 “Me too,” says the man who is not short, although he does not understand. He usually does not. His partner understands for him, and it all works out OK.
 
+
+
 As they leave the warehouse and the supervisor and the piles of wooden crates, the voice on the radio says something about the weather.
 
 [“Pretty Little Head” by Eliza Rickman]
+
+
 
 By the time they leave the warehouse, it is night. Or maybe the sun has just set early. The sunrise that morning had been particularly loud and strenuous.
 
 “You know,” says the man who is not short, looking down at his crossword, “I worry every time that I’m not going to finish these when I start them. The future, where I have finished, seems so distant from the present, where I have started.”
 
 “I wouldn’t worry about that,” says the man who is not tall. “But you would. I know. I know you would worry about so many things. I do worry about that. About you worrying.”
+
+
 
 “Do you think everything will turn out all right?” says the man who is not short. “I mean everything,” he says to clarify. “Absolutely everything,” he says as further clarification.
 
@@ -10027,11 +10065,13 @@ He does not.
 
 “I…do!” he says again.
 
+
+
 He does not.
 
 He glares at the radio.
 
-They drive past the Moonlight All-Night, a glass box of bad food and good people. They pass Teddy Williams’ Desert Flower Bowling Alley and Arcade Fun Complex, badly damaged by the war, but still running its weekly bowling league. They pass by City Hall, which is covered in a yellow tarp, stamped with an orange triangle. Moving farther out, with absolute purpose, they pass by the Used Car Lot – alive with the wolves that populate all car lots at night – and Old Woman Josie’s house, silent and empty for months now.
+They drive past the Moonlite All-Nite, a glass box of bad food and good people. They pass Teddy Williams’ Desert Flower Bowling Alley and Arcade Fun Complex, badly damaged by the war, but still running its weekly bowling league. They pass by City Hall, which is covered in a yellow tarp, stamped with an orange triangle. Moving farther out, with absolute purpose, they pass by the Used Car Lot – alive with the wolves that populate all car lots at night – and Old Woman Josie’s house, silent and empty for months now.
 
 Then the town is behind them, and they are in the Scrub Lands and the Sand Wastes.
 
@@ -10047,6 +10087,8 @@ The blindfolded man stumbles a little, but not much, and there isn’t anything 
 
 We all know the drill. We all know how this, and everything else, ends.
 
+
+
 The blindfolded man walks 15 feet or so in the direction of the darkness, so that the men and the car are between him and the distant dome of light that is Night Vale. He walks to a certain point in the cool sand, and then stops – partly because the man who is not short guided him there, but mostly because he has taken himself there, as we all eventually take ourselves to that point where we will not be able to take ourselves any farther.
 
 The man who is not tall, still by the car, pulls out a knife. It is not stained, does not look used, but he speaks its brutal history in his posture – in the way he holds it.
@@ -10059,7 +10101,11 @@ The man who is not tall walks up to join them with the knife.
 
 “What is that?” says the man who is not short, pointing at the sky.
 
+
+
 “What is what?” says the man who is not tall, from just behind him.
+
+
 
 “That planet up there!” says the man who is not short. “It’s so dark, and so close! It’s looming! It’s…so close! I wonder if I could…”
 
@@ -10068,6 +10114,8 @@ He reaches up.
 The man who is not tall makes a gesture with the hand that holds the knife.
 
 The man who is not short is no longer reaching up. He is no longer standing up.
+
+
 
 In many ways, he no longer exists at all.
 
@@ -10079,6 +10127,8 @@ Or no, he thinks it out loud, but it comes out more thought than speech.
 
 He looks up at a night sky that is absolutely clear of anything but void, and stars, and the occasional meteor, and mysterious lights moving at impossible speeds, and the faint glimmer of spy satellites looking back down from the nothing to the something.
 
+
+
 “I’m sorry,” he says, although not to anyone that still exists and can hear him. He just says it, leaves some undirected words in the hot night air, and then returns to the car.
 
 He may be crying. I know if he is or not, but I am choosing not to tell you, because this is private information and you have no real need to know it.
@@ -10086,6 +10136,8 @@ He may be crying. I know if he is or not, but I am choosing not to tell you, bec
 The blindfolded man removes his blindfold, and looks down at the man who once was not short, and now is not anything at all.
 
 He, the man who can see, is also not short. He follows the man who is not tall to the car. The man, not short, not blindfolded, gets in the passenger seat.
+
+
 
 “Always an unpleasant business,” he says. He does not comment further. He does not need to.
 
@@ -15434,13 +15486,13 @@ Today’s proverb: I’ve got more rhymes than the Bible’s got Psalms. 151. I�
 
 The following are the minutes from the Night Vale Community College faculty meeting.
 
-Meeting facilitator was Dr. Vidor Zhabo.
+Meeting facilitator was Dr. Vidor Szabo.
 
 Meeting secretary was Joshua White.
 
 Item 1: Call to Order
 
-Dr. Zhabo called to order the regular meeting of the faculty of Night Vale Community College at 3:00pm on November 1st.
+Dr. Szabo called to order the regular meeting of the faculty of Night Vale Community College at 3:00pm on November 1st.
 
 Item 2: Roll Call
 
@@ -15478,7 +15530,7 @@ Dr. Michael Galleti, Dean of Science, Technology, Technology With Finger Quotes,
 
 
 
-Dr. Vidor Zhabo, Associate Professor of Humanities
+Dr. Vidor Szabo, Associate Professor of Humanities
 
 
 
@@ -15552,7 +15604,7 @@ President Sultan stopped mid-sentence, and was silent for several seconds. As th
 
 Faculty began to shift and turn in their seats, but saw nothing.
 
-This continued until it was decided that the president had nothing further to offer, and Dr. Zhabo picked up the president and placed her back in her terrarium.
+This continued until it was decided that the president had nothing further to offer, and Dr. Szabo picked up the president and placed her back in her terrarium.
 
 Item 5: Announcements, Issues, and Questions
 
@@ -15582,13 +15634,13 @@ She then set a rug on fire with her thoughts.
 
 Item 6: Welcome for Dr. Buqar
 
-Dr. Zhabo asked the assembled to welcome Dr. Mohini Buqar, who joined the faculty as an Assistant Professor of Secret English at the beginning of the spring semester. Dr. Buqar, sweating profusely with a fixed grin that showed far too many of her teeth, greeted the faculty and briefly introduced herself and her interests in a shaky, indistinct voice that gradually climbed in pitch toward a shriek.
+Dr. Szabo asked the assembled to welcome Dr. Mohini Buqar, who joined the faculty as an Assistant Professor of Secret English at the beginning of the spring semester. Dr. Buqar, sweating profusely with a fixed grin that showed far too many of her teeth, greeted the faculty and briefly introduced herself and her interests in a shaky, indistinct voice that gradually climbed in pitch toward a shriek.
 
 Dr. Buqar’s doctoral dissertation compared Shakespeare’s unproduced and unpublished play, Mirth Forest, with elements of Chaucer’s unwritten childhood daydreams. And she enjoys ballroom dance and owns two Siberian huskies. She is teaching two sections of Survey of Secret British Literature, featuring Emily Bronte’s epic novel that no one has ever heard of, The Flippancy of Clouds.
 
 Item 7: New Course Proposals for Fall 2015
 
-Humanities 375 – Hegel’s Philosophy in Context, taught by Dr. Zhabo
+Humanities 375 – Hegel’s Philosophy in Context, taught by Dr. Szabo
 
 
 
@@ -15678,15 +15730,15 @@ If the slogans are approved by the faculty, the college community will vote on t
 
 Discussion: Dr. Long began vomiting and shuddering uncontrollably near the end of Ms. Kingsworth’s presentation, although this was found to be unrelated.
 
-Dr. Zhabo remarked on the exceptional artistry of the logo, and insisted on taking a picture with his mobile phone on behalf of Professor Galen in the Art Department, who was unable to attend today’s meeting. The phone produced a small cloud of foul-smelling crystals from its camera lens, and then imploded.
+Dr. Szabo remarked on the exceptional artistry of the logo, and insisted on taking a picture with his mobile phone on behalf of Professor Galen in the Art Department, who was unable to attend today’s meeting. The phone produced a small cloud of foul-smelling crystals from its camera lens, and then imploded.
 
 Dr. Bell questioned whether the reference to “ancestors” in Slogan 1 was culturally insensitive. Ms. Kingsworth assured the faculty that the advertising firm understood the importance of diversity to the college community, and the inclusivity of the slogans as well as their market impact had been thoroughly researched.
 
-Drs. Crawford-Rothwell and Zhabo debated the issue. No conclusion was reached, although Ms. Kingsworth agreed to raise the issue with the firm as the process continued.
+Drs. Crawford-Rothwell and Szabo debated the issue. No conclusion was reached, although Ms. Kingsworth agreed to raise the issue with the firm as the process continued.
 
 Dr. Bell asked Ms. Kingsworth for the name of the advertising firm the college is consulting. Ms. Kingsworth was silent for seven full minutes, and then proceeded to giggle for the remainder of the meeting.
 
-Dr. Zhabo distributed ballots for approval or disapproval of the slogans. Additional copies will be mailed to each department to be filled out by faculty members who were unable to attend today’s meeting. No one will actually mail them – it will just happen, quietly, while no one is looking.
+Dr. Szabo distributed ballots for approval or disapproval of the slogans. Additional copies will be mailed to each department to be filled out by faculty members who were unable to attend today’s meeting. No one will actually mail them – it will just happen, quietly, while no one is looking.
 
 The ballots should be completed and returned to the Office of College Relations, where they will be discarded unread.
 
@@ -15738,7 +15790,7 @@ Person responsible: Robert Hernandez
 
 Item 14: Adjournment
 
-The faculty met eyes, placed hands upon arms upon shoulders. Dr. Zhabo, weeping, adjourned the meeting at an unknown time, as time is subjective and confusing.
+The faculty met eyes, placed hands upon arms upon shoulders. Dr. Szabo, weeping, adjourned the meeting at an unknown time, as time is subjective and confusing.
 
 In the flickering candlelight, their synchronous breath were a breezy metronome, marking the only time any of them could possibly understand.
 
@@ -15748,4 +15800,474 @@ Minutes submitted by: Joshua White
 
 Minutes approved by: The Survivors, presumably
 
-Today’s proverb: If you’re worried your writing isn’t good, just remember: the earth is warming and soon, good and bad writing alike will all be underwater.
+Today’s proverb: If you’re worried your writing isn’t good, just remember: the earth is warming and soon, good and bad writing alike will all be underwater.﻿What of the Sea? by Marta Rainer
+
+This happened, then this happened, then this happened.
+
+She got a potential invitation. It was stuck in between the mesh and tin brace of her screen door, with her name boxily hand-written on the front of the envelope. Across the seam of the back of the envelope was written the acronym S.W.A.C., and no reference was made to its sender.
+
+Sticky, wet letters.
+
+She stood at the entrance of her bungalow, plastic bags of recently-purchased groceries at her feet, and pondered, turning the envelope in her hands, and occasionally meeting her nose to it to sniff for clues, as to its origins. The air was too chilled to glean much information from it that way. It deadened the senses. It was meant to.
+
+Sealed with a kiss, she knew, signing something S.W.A.K.
+
+But S.W.A.C.? What did this C portend? Once a thing is opened, it cannot be closed again, not really. Hasn’t that been proven time and time again in this town?
+
+Today’s delivery flummoxed her, and she wondered if this letter reception was being stealthily observed. Had the Man in the Tan Jacket been accounted for lately? Sometimes he was everywhere. But no one could remember for certain what he looked like, except he had a tan jacket, and a deerskin suitcase – which was full of flies.
+
+Had a librarian escaped? Sometimes they tried to lure prey by sending library cards to potential book lovers. In fact, there were periods this year where a librarian seemed to be escaping nearly every day.
+
+Sealed with a card? No.
+
+Perhaps a Vague, Yet Menacing, Government Agency! Or another political flier from the five-headed dragon Hiram McDaniels, or the Faceless Old Woman Who Secretly Lived in Her Home. It couldn’t be the former, as there were no scorch marks, and definitely not the latter, as the Faceless Old Woman mostly scrawled her messages on the insides of closet doors, and in the margins of her municipally-required dream journal.
+
+It could have been innumerable letter writers. There were three hollow trees just on her block that someone could be hiding in. A blimp careening overhead. An overturned car down the way.
+
+She ceased her conjecture. She had to get all the black garlic ice cream pints and paper towels into the freezer. She should put all these sundries into the fridge and secure all her glassware before today’s scheduled earthquakes.
+
+She swiftly checked if other mail was waiting for her in its proper receptacle – none yet, but the postman Angus may have been lollygagging or gagging full-stop en route – and ventured inside.
+
+The letter was most assuredly hand delivered. The door chased her backside with a uproarious schoomp!, caught itself at the last minute, and politely bopped closed.
+
+Sealed with a…
+
+It might have been a misspelling, of course. Perhaps the sender did in fact kiss it just after it was sealed.
+
+Perhaps the sender took pleasure in imagining her gussied up in her aubergine dress and kitten heels, tights with line designs, a crocheted shawl, her froofy hat, and wielding a mottled cane – which she didn’t need, but enjoyed the feeling of swagger that it provided – and also, glasses framing her green eyes. Contact lenses always seemed to rebel against their function in her eyeballs, like fire. Fire. But, specifically, her bedazzled cat-eye frames, rather than her everyday browns. And also, eye makeup.
+
+She smiled at that image of herself in her brain, which was much more acceptable than the untrustworthy image of herself in the mirror.
+
+She hoped the content of the envelope would be revealed to be an invitation to a party, where such a getup would be appropriate. It had been three weeks on a rigid diet of black garlic ice cream and sundries: apples, deli mustard, goat’s eggs, et cetera. You know it. And she was seeing results. Trendy diets be darned! If a thing works, a thing works. And this thing works. Sometimes things are trendy for a reason, she justified.
+
+S.W.A.C.
+
+Perhaps the sender meant K, for kiss, because the act of their lips meeting with the paper had already taken place, but then they were so overwhelmed by their vision of her that their hand briefly didn’t work?
+
+But…it could have been from an unfriendly rival. Or a vindictive ex. It could have been from a genetically overachieving wombat, with orthographic training and questionable spelling.
+
+What did that C portend? Sealed with a compliment? A consonant? A carton of glue? A cartouche? A carat, as in gold? A carrot, as in vegetable? A century’s worth of spite?
+
+Sealed with a charm.
+
+Aaah, a charm! And if so, should she open this at all? Fool me once, she thought, as she filled the freezer with the packed pints, reserving one out on the counter for immediate attention, from which she coaxed the plastic top and found a tin spoon where it should be, in the silverware drawer – which is always directly above the hot milk drawer.
+
+She had a series of bites and thoughts, pressing the ice cream about her mouth.
+
+What if, in the opening, something…horrendous would get unleashed, and all the fleeting thoughts that flashed in her brain that day would come to fruition? As an example.
+
+And so, what did she think today?
+
+She thought about postman Angus, lollygagging or gagging. That was a fairly recent thought. And, once remembered, it lingered. In her mind, he had spotted a wildflower blooming on, say, the old Bandera lot, and became consumed with picking it for his tinctures. He would fish his wire cutters from his mail bag, clip an Angus-sized hole in the wire fence, and squeeze himself through to gain his treasure.
+
+She thought about how her letters would often come stained with pollen, as they increasingly shared the postal bag with this roving apothecary in the making. And how, once, an inchworm sat up from its self-claimed letter bed when she opened a bill from her podiatrist, as if she had disturbed its slumber.
+
+She thought about the last letter she got from her sister, who lived a block over, but had impulse-purchased reams of Victorian-inspired stationary from a door-to-door salesdeer, and now wrote anyone about anything, just to regain her living room space. The letter was sticky with tree sap, and her sister had scribbled “Wait, what did you say?” And what she had said, on a previous day, in a previous month, sitting across from her sister as they shared an afternoon cocoa and rye toast (pre wheat ban), was “A green-blue ring.”
+
+Her sister’s letters were confusing, because they were written in immediate response to a conversation, but posted in a big batch at the end of each day, and since the time of the post office’s vacuum portal, which demotivated its swallowed staff, were received sporadically, out of order, and in poor condition. The letters were therefore work to comprehend, and sometimes she thought about not reading them, then worried that she might miss one that truly was a complete letter, thoughtfully crafted by her sister about an intimate issue, and not a rhetorical “What?” or “Excuse me?” or a query about what song or brand of tea this is, or an unsupported rebuttal point long lost to chronological context. She would not want to miss the rare, real letter.
+
+They were close, the two sisters. They took a trip together last year to a glacial lake, and didn’t come home with stories or tans, but lots of digital pictures of birds. People asked them, “Wasn’t there any sunshine, or lovely scenery? Did you get out on a paddle boat once, at least?”
+
+“Birds,” the sisters said. “We saw incredible birds.”
+
+C.
+
+S.W.A.C.
+
+The letter took on more ominous importance with each spoonful. She brought the missive, now warmer and violently (violet-ly) more fragrant, and the ice cream pint, now warmer too, over to the sleeper sofa, and placed both on the adjacent coffee table.
+
+She could feel a change in the weather. She felt it in her knees, and in her hair.
+
+[“Ruins” by Mortheth]
+
+The mystery of the envelope weighed on her chest and eyelids, and she felt burdened by the responsibility of the unknown consequences of investigating the epistle’s insides. Was any societal gathering worth the dark magic its acceptance could unfurl? Isn’t magic just a fiction? Isn’t society?
+
+Did nice people need Cs? She did not appreciate it, nor did she want it.
+
+She took the straight end of the spoon and slid it underneath the slight separation between gum-shut seal and folded corner. The spoon fit perfectly. She contemplated the slight lift of her elbow, the outward flick of her arm and carpal follow through, a gesture which would send the tin spoon through the paper’s protective. – or secretive – crease.
+
+What C would be revealed?
+
+Or released?
+
+The spoon slid out carefully, the crease unharmed. Gathering all her gusto, she instead reached under the sofa bed and found her stash of writing utensils. They were illegal, yes, but everyone had them. Secret Police rarely wrote tickets for pencil possession. She was careful. And, more than careful, she was private. And, more than private, she was…discreet.
+
+She touched the tip of her tongue, then to her block printed name on the envelope. She drew calligraphic swirls with thick serifs and ornate curves.
+
+She wrote, “For postman Angus” on the front, in an architectural script meant to hide her own name and original intent of receipt.
+
+She ran her first two fingers softly along the sealed flap, as if to seal it with her own S.W.A.C.
+
+Carefully snaking her hand through the gap of her slightly-ajar screen door, so as not to alert the windowless surveillance van across the street, she returned the newly-fashioned envelope back to where she herself had discovered it, and shut herself back inside.
+
+The ground began to tremble. She looked at the clock, surprised to note that the city started an earthquake on schedule for once.
+
+She trusted that Angus knew more about these things than she ever could, or cared to. She trusted that should something bad happen, he would have the herbal remedy, or floral tincture on hand, to immediately set it, or something, right.
+
+She stood at the front window, and peeked out the peach-colored Venetian slats, making herself gray in the darkening afternoon room.
+
+She cracked a goat’s egg over the liquid remainder of her ice cream. She put the letter from her mind, and listened for the rumble of him.
+
+Today’s proverb: Remember that all sentences must have a noun, a verb, and the phrase “foolish mortals.”﻿Breathe deep.
+
+Deeper than that. Get far below sea level and breathe. Breathe in a cave. Breathe in a deeper cave. Breathe deeper and deeper until you can’t find your way back.
+
+Welcome to Night Vale.
+
+Some of you might remember, but most of you won’t, that you were given a list. Nearly two years ago, you were given a list, and told to memorize it exactly. Keep it safe, so that someday, it would keep you safe.
+
+Well, listeners? The Sheriff’s Secret Police would like me to inform you that the “someday” you’ve been waiting for is this day. This is the day in which you will need that list we gave you. Do you still have it? Do you remember it? Exactly. Are you safe? Are you safe? Well, we will all find out soon enough. Good luck.
+
+Harrison Kip, adjunct professor of archaeology at Night Vale Community College, announced today that he has found something out in the desert.
+
+“Whoa!” he explained to no one, a dot in a vast landscape of sand and wind. “Oh, man!” he continued, looking at the thing he found.
+
+He has declined, so far, to describe what he has found, or offer any details or, for that matter, do anything but stare at whatever this thing he found was, and continued to say things like, “Wow!” and “They’re never going to believe this!”
+
+We reached out to Sarah Sultan, president of the Community College, for additional information, but she would not provide any, saying only that Harrison is on a private dig, funded by a small group of anonymous sponsors. She said, “Although I have never met them in person, I have spoken to the sponsors by telephone, and they have our best interests at heart.”
+
+“I am sure of it,” she added. “Plus, they totally funded this dig thing, so, what am I going to do, just start asking questions?”
+
+A lone helicopter on a precautionary sweep of that expanse of the empty desert reported that Harrison is still kneeling over whatever it is he has found; explaining to himself, in an unrecognizable language, the incredible nature of whatever that thing is.
+
+More on this, eventually. I guess. Whatever.
+
+The Greater Night Vale Medical Community, in conjunction with the mayor’s office, announced the new city-wide campaign for Meatless Mondays. Each week, in recognition of the immense impact of meat on the environment and public health, Meatless Mondays will be the days we all set aside to try not to be made of meat. We will all sit quietly, and attempt to will ourselves into a state of inorganic bliss, seeking to turn our feeble bodies into metal, or silicon, or stone.
+
+When we fail to do this, as is likely (according to the most recently issued laws of physics), we will all engage in a group denouncing circle to try to understand whose betrayal is causing the continued failure of this important day.
+
+And now, a look at traffic.
+
+We are eternal! We will not last!
+
+Obviously, you know that when you die, the matter that is your matter will just become matter, no article attached. That matter will belong to any number of things. That matter is not you. That matter was never you.
+
+We are eternal! We will not last!
+
+But there is more to you than matter. When you die, you will not disappear until everyone who remembers you, and whose actions are affected – however slightly – by your memory, until all of those people die, and you are completely forgotten.
+
+We are eternal! We will not last!
+
+But even then, you are not gone. Not until all the people who remember and are affected by those people who remembered, and were affected by you, are gone.
+
+We will not last!
+
+But even then, you are not gone. Not until all the people who remember and are affected by those people who remembered, and were affected by those people who…and so on, and so on, and on.
+
+We are eternal!
+
+You will persist, ever so faintly, ever so slightly, on into perpetuity. Long after everything about you no longer matters. Your life is so small. But, in the setting sun of this universe, its shadow is cast down through generation after generation, until it gets blurry and hard to see…but still there. A breath of a wisp of a thread stretching out before you.
+
+We are eternal! But we will not last!
+
+There’s a fender bender on Route 800, near Exit 84B. Expect delays.
+
+This has been traffic.
+
+Update: We still aren’t sure exactly when or how you will need that list today. You remember the list, right? You were given a list some time ago. You should have memorized it. If you didn’t…[Cecil moans]…I mean, if you diiiidnnnnn’t……wellllllllllll, I mean…..if you diiiiidnnnn’ttttt [Cecil moans, and possibly a wolf howls in the distance, or maybe it's a high-pitched echo of Cecil himself]…
+
+No one can make your destiny for you. Only you can make your destiny. Only you and the privileges you were born with, and a whole lot of aimless, meaningless, luck, can make your destiny.
+
+The Sheriff’s Secret Police are going around town, checking in with everyone and seeing if they have the list memorized. If you don’t, they helpfully are shaking their heads and tsk-ing, and then saying, “Wow, you’re in trouble!” before leaving you to fend for yourself against whatever dangers this list would have protected you from.
+
+More on this soon, as you desperately try to remember the list that was told to you. Or even when it was told to you, and in what context. It’s a very important list.
+
+And now, a word from our sponsors.
+
+An empty food bowl.
+
+An untouched water bowl.
+
+A silence in the house.
+
+A cage containing nothing.
+
+A feeling of unease that was once soothed by a joyous instinctual companionship.
+
+We listen out our window, and hear not a passing jangle. Not a “No,” or a “Wait for me!” Nothing meows. Nothing does. Absolutely nothing meows.
+
+The night is so quiet that our thoughts are a clatter, keeping us awake.
+
+In the distance, a dog doesn’t bark.
+
+PetCo. Where did the pets go?
+
+Old Woman Josie told me over a round of bowling down at the Desert Flower that construction on the New Old Opera House is continuing along well. They have already completed the initial arches, the outer flood banks, and the primary stables.
+
+“Yup,” she said, holding her ball in preparation for her turn. “This town will have opera once again.”
+
+“But what is opera,” everyone else in the league asked her. “Is a kind of plant? Does it have rough, leathery skin?”
+
+But she wouldn’t say anything more, and just let go of the ball, which was then carried by a creature named Erika (who definitely wasn’t an angel) down the lane while Erika said “Roll, roll! This is a ball rolling!” And then Erika kicked over all the pins, while saying, “Crash! Bam! The ball just hit all these pins and knocked them all over! Wow! What a shot!”
+
+Of course, none of us could…legally acknowledge the existence of Erika, so…we had to let the strike stand uncontested.
+
+And now, an update on you.
+
+Just now, there was a Man in a Tan Jacket, holding a deerskin suitcase, looking over your shoulder. You’re sure of it. Only you don’t quite remember it happening. It’s blurry, and distant, like a dream you had when you were little, and now as an adult, you can’t remember if it was a dream or something that actually happened to you.
+
+But there was a man.
+
+There was a man, right?
+
+You grasp to recall, but flail only at fragments and gap.
+
+He was looking over your shoulder with interest, a deerskin suitcase in his right hand. The suitcase was making a buzzing sound. Perhaps the man was too? You don’t remember.
+
+“None of this is real,” you think. “None of it happened. This is fiction. You are hearing a fictional story, and this did not happen to you.”
+
+Still, you can’t shake the feeling that it did happen to you; that just moments ago, you turned, and over your shoulder was the Man in a Tan Jacket, holding a deerskin suitcase. He might still be there now. You’re afraid to check. Or, maybe, you already checked, and now can’t remember doing it.
+
+You turn to look.
+
+Nothing there.
+
+You turn back.
+
+“Nothing there,” you think with relief. Only, now, there is a question mark on it. “Nothing there? Was there nothing there?”
+
+The Man in the Tan Jacket spoke to you, quite urgently, about…something, but what? He had a map. He was pointing at a place on the map. Now, you don’t even know what area of the world the map depicted, let alone where he was pointing.
+
+“This is all a made-up story,” you tell yourself. You decide to feel entertained by the made-up story I just told to you.
+
+And yet…
+
+And yet……
+
+You can’t shake the feeling, a feeling located just over your shoulder, that this made-up story might not be made-up at all.
+
+Oh. Ohhh, my. Listeners, the sun is gone! It is not covered by a cloud; it has left, and we know that the sun is generally pretty brave and only leaves when something very frightening indeed is in the area. What could have frightened the sun away?
+
+Now is the time, I’m– I’m sure. Now is the time you need to know the list. Try to remember. Did you write it down, perhaps? Scramble around in the junk drawer in the kitchen, among take-out menus that are years out of date, and fliers for health clubs that you never joined. Try to find where you wrote down that list.
+
+But it is too late! There is a growl that comes from everywhere. Some sort of shape descends from the sunless clouds, and a voice, like through a loudspeaker, tells us that now is the time to recite the list, or else!
+
+This is it. If you don’t know, then you don’t know. I know, at least that. I know. Oh! Did Carlos know? Thank the mysterious lights in the sky he wasn’t here! Who knows if his brain, so packed with science, would have let a few stray bits of language slip from his memory!
+
+Listeners – those left to listen – I take you now, reciting the list, reciting for your very lives, to the weather.
+
+Hazelnut
+
+Mystify
+
+Cuttlefish
+
+Lark
+
+Lurk
+
+Ro–
+
+[“Upside Down World” by Paisley Rae]
+
+Beat
+
+Beat
+
+Beat
+
+Beat
+
+
+
+Beat
+
+Oh. I am still here. I am looking at my fingers. I am examining my limbs, I am placing one hand on my chest (like in the chanted blood oaths we were forced to swear to the flag each morning as children), and I feel the circulation of air and fluid throughout my body, the simple machine of liquid dynamics and electrical impulses that sustains through some ridiculous coincidence of physical law, the sentience through which I am speaking to you.
+
+Everything seems to be in order…in that I am nervous, and uncertain, and feel an emptiness sometimes which can never be filled, which maybe shouldn’t be filled, and a sadness sometimes which wells up regardless of context or reason.
+
+So, everything perfectly in order. I’m fine.
+
+We are, as a community, stepping out into the street. We are gathering in open places. I, too, am going. I, too, am stepping out into the street and gathering in open places. Here we all are, in Mission Grove Park, and me, among you, speaking into this microphone which, as always, I am uncertain is even connected to anything, but…I don’t care. Either way. Because I know I am connected to all of you, now.
+
+I have felt disconnected lately. My being has been split between the here and the now, and the there and the now. My relationship with Carlos currently exists within the idea of distance, within the concept of space, rather than in any specific place.
+
+There have been moments where I have doubted my fellow citizens, or have felt perhaps even threatened by them.
+
+But that is not the case now, in this moment, here, in this park.
+
+Diane Creighton is with her son Josh, who this morning is a meadowlark. I feel only love for them.
+
+Jackie Fiero, from the pawn shop, is showing Francis Donaldson of the Antiques Mall a cool knife that someone pawned by running in, shouting “Hide this!” and running out. There is nothing not to trust and adore about this moment between fellow humans.
+
+A cluster of Hooded Figures lurk along the corner of the park, pointing at various people, seeming to leer and laugh at the oblivious citizens. I am terrified of the Hooded Figures. But also, comforted by their menace. I think they are even pointing now at me, whispering, and I’ve never felt more at home.
+
+Janice, my young niece Janice, is here, joined with the rest of us in the park, along with her family whom I don’t like to talk about much, but whom I tolerate in all the requisite familial ways. Janice is with her friends Edmond, and Megan, and Patrice, and she’s waving to me, and I am waving back. I am so glad she remembered the list. I’m glad we all did. There doesn’t seem to be a single person missing. I counted, and every single resident of Night Vale is in the park, and doing fine. We heave our shoulders to express release, we sigh to show others we are relieved. We all breathe once, in unison, accidentally.
+
+“Wilson?” says one of us to another. “How are things going, Wilson?”
+
+“Oh, you know,” says the other, although he does not know. “How are things with you, Amber?”
+
+“Oh, good,” she says. And she is right. Things are good.
+
+And they both take the hand of the person they love, and Amber smiles at Wilson, and Wilson smiles at Amber, and everyone smiles at everyone and at everything, and no one is OK, exactly, but we’re outside and we’re smiling. And that is a kind of perfection of its own.
+
+Oh. Uh, a Sheriff’s Secret Police representative arrives in the usual way, by rappelling from the sky and crashing into the middle of our happy huddle, in a…[clears throat] in a cloud of tear gas and flashing lights. As several people choke and disperse, the representative shouts to us that today was only a drill, that no one was in danger, that this was not actually the day we needed to know the list, although that day may someday come, is already coming, is imminent in the most general meaning of the word imminent, and that we are safe but that we are also in grave danger. We are both at once, and are thus free to fully enjoy our lives. A representative shouts into a bullhorn from somewhere behind a line of armored vans.
+
+[Cecil clears his throat]
+
+So, there you are, listeners. All of you who have escaped the tear gas to listen to these words, we were safe all along, and we will stay safe until that time – sooner or later but definitely always on its way – when we are not safe once again.
+
+[Cecil grunts as the tear gas affects him a little more]
+
+Stay tuned next for a surprised man shuffling papers frantically and saying, “Uh, uh, uh” into a mic he did not expect to be on.
+
+Goodnight, Night Vale. Goodnight.
+
+Today’s proverb: Beware of Greeks bearing gifts. Also beware of gifts of Greek bears. Gifted and bare Greeks are totally OK.﻿If it looks like a duck, and it quacks like a duck…you should not be so quick to jump to conclusions.
+
+Welcome to Night Vale.
+
+Listeners, someone built a monolith in front of City Hall overnight.
+
+Last night, there was no 15-foot tall, two-foot thick rectangle made of blue slate towering over the faded grass and weakened tulip garden in front of City Hall. But now, there is. A monolith, with indifferent geometry and a long, sharp shadow cast by the low morning sun. It is an ominous construction, channeling ancient powers and long-dead gods. Perhaps, it is even connected to our primordial extra-terrestrial ancestry. And now, just a few days before Christmas, this looming, dark stone shows up mysteriously in the night, casting scornful shadows across both our dreams and our primitive understanding of the world.
+
+It’s super-festive and I love it! Whoever put that thing up, good job! It must weigh…20 tons? Don’t know how you did it, but way to get us all into the holiday spirit!
+
+I talked to Carlos the other night, listeners. He’s still trapped in the…[clears throat] not trapped. I told him I’d stop saying he’s trapped in the desert otherworld. He is…doing work there.
+
+He said after a few months of feeling helpless he’s made some friends, like the giant soldiers Doug and Alicia, and even gotten a lot of research done. He doesn’t feel trapped at all. I told him that he was locked in that alternate desert against his will, and has been unable to return so, that seems to me like a pretty strong definition of “trapped.”
+
+He said he used to feel that way. But now he no longer feels threatened by the rumbling beneath the sand, or the strange armies that move about the beige wastescape. None of them fighting, only…wandering.
+
+He feels like this desert – the most scientifically interesting place in the otherworld – is where he needs to be. For now.
+
+He quoted that old adage, “when God closes a door, God opens a window, then God cracks a few knuckles, then God kicks a pine cone up the sidewalk. God also chews a whole bunch of gum. God recently quit smoking, and is really fidgety.”
+
+Carlos used that classic saying to point out that this desert is a great opportunity for his career as a scientist. And I respect that.
+
+I asked if he found an old oak door with only one side that could possibly bring him back to Night Vale.
+
+He said he hadn’t, but then he asked, “Cecil, if I find that doorway, would you…maybe…come here again? Just for a visit. I want you to meet Alicia. Alicia has a Bichon Frisé the size of a Prius, and is really into astronomy. They also showed me some planets and comets they really like. Also, the constellations change every night here! There are new shapes of mythic heroes in the sky every night. I’d love you to come visit,” Carlos told me.
+
+[Sigh]
+
+“We’ll see. It does sound nicer than I remember,” I said.
+
+“Neat,” he said.
+
+I’d love to be near Carlos again. We’ve had a great time talking nearly every night, but it’s…hard to know how much meeting eyes or touching hands means until it’s gone. Plus, I could use a vacation. Other than that brief escape through the same desert otherworld this spring, I don’t think I’ve been out of Night Vale since…wow, um, Luftnarp? Svitz. Ugh. Time flies, comma, is weird.
+
+Oh, big news! This Wednesday afternoon is the opening ceremony of the revitalized Old Town Drawbridge. Because of massive setbacks two years ago, and a complete lack of a body of water that would even necessitate a drawbridge, the opening was delayed by 14 years – including a budget increase of over 20 million dollars. So, technically, we’re still 12 years away from completion, but the City Council though we might as well have the opening ceremony now.
+
+“We’ve already burned through the 20 million dollars,” the City Council announced in unison via conference call from a cruise ship. The Council were all wearing matching sunglasses and floppy hats, and drinking a pastel liquid through long curly straws out of one large pineapple.
+
+The opening ceremony will be held in a collective shared daydream Wednesday afternoon. So, make sure you’re doing something that is unchallenging (both physically and mentally) on Wednesday so you can drift off into this fun community dream event.
+
+We’re starting to get complaints about the new monolith that appeared overnight in front of City Hall. The monolith has begun to hover. I mean, not by much, don’t freak out over a hovering monolith. It’s, like, two or three inches. Not a full foot, or more.
+
+The complaints, though, are not about the hovering. They’re about the placement of the monolith. Our town (and country for that matter) was based on the separation of ancient long-dead religions and state.
+
+Juanita Jefferson, head of the community organization Night Vale or Nothing, announced her group’s protest against a prominent symbol of old gods and possibly our primordial extra-terrestrial origins being displayed on government property.
+
+The City Council retorted by slurping their cocktail loudly from the still-active Skype connection on a nearby Acer laptop that no one knew how to turn off.
+
+Jefferson added, “Treeeeeeeees! They are us!” then bit into a small metal pipe wrapped in a hot dog bun. While she chewed, we could still hear her speaking clearly, “Treeeeeeeeeeeeeeees!” she said, her closed mouth moving in slow, undulating cast iron crunches.
+
+Several others have come to Jefferson’s side in this issue, claiming that while they still fervently worship old gods (many showing off bloodstained shoes and sharp rocks wrapped in strips of flesh), they do not believe it is the government’s place to express these beliefs so publicly.
+
+“[Sound not entirely unlike the slurping of the last bits of a cocktail from the bottom of a large pineapple, followed by a loud ‘Aah’-sounding exhale],” came the City Council’s reply from the computer.
+
+More on this controversy as it grows out of hand. But first, a word from our sponsor.
+
+Today’s show is brought to you by silent self reflection.
+
+Are you aware of what’s inside of you?
+
+No, not soft meats and deadly microorganisms. More than that. What makes you you?
+
+How are you able to acknowledge that you are even a thing, separate from the rest of the universe?
+
+Do you find yourself casting about in the white noise of the living world, your eardrums clogged with the filth of existence?
+
+We here at Night Vale Community Radio recommend silent self reflection. Give it a try.
+
+Here’s some silence. During this silence, reflect on yourself. Reflect on your life, your being. Close your eyes, and just reflect. Let in no sights, no sounds – and reflect.
+
+Ready? Here goes.
+
+[A span of complete silence]
+
+Did you reflect? That was a long silence, right? Do you know how long that silence was? Ha-ha! It was two weeks! You’ve been unconscious for two full weeks! You’ve been pronounced legally dead! Your family misses you, but you’re finally free to be the living ghost you’ve always dreamed of being. Ha-ha-ha! Congratulations! Enjoy a life free of legal consequence.
+
+And now, an update on the monolith.
+
+Some protesters have shown up at City Hall carrying signs against the monolith. The signs read, “NO MONOLITHS ON CITY PROPERTY,” and then a slash through that phrase. Which is confusing, because that seems like a double negative, but when you look closely, there’s also a line through the NO part, so it’s a triple negative, which reduces down to a single negative.
+
+There are other signs that are just painted solid colors, so it looks like the monolith has lost the support of the abstract expressionist community as well.
+
+Fortunately, the Sheriff’s Secret Police have already gently kettled the protesters into a fenced-in section of a distant parking lot, where no one can see or hear their protests – thus keeping public order and still allowing for freedom of speech. A win-win.
+
+Counter-protesters have also arrived in support of the monolith, demonstrating their distaste for people against the monolith. They’re holding signs that have a picture of a monolith or…maybe it’s the letter I, or L, or the number 1. It’s…hard to say, what with sans-serif fonts being all the rage these days.
+
+Police have placed the counter-protesters into a pen, next to the original protesters, and covered both pens with an opaque and sound-proof velvet drape.
+
+Oh! We’re getting word that the monolith is vibrating, and loudly humming. Also, it’s glowing. But I don’t know. I can’t feel or see that so…not really my problem now, is it?
+
+Let’s have a look at sports.
+
+The Night Vale High School Scorpions had a rough 2014 season. It was capped off by a scandal involving junior running back Maliq Herrera. The Scorpions had to forfeit all wins in which Herrera played because he violated district rules by never truly existing.
+
+One of the team’s best defenders, senior safety Jessica Lexington, was sidelined most of the season with spinal parasites she got in late September after refusing to yield on a highway off-ramp.
+
+Additionally, sophomore quarterback Henry Lexington, Jessica’s younger brother, struggled in his first season as a starter. By year end, he showed some improvement as coach Nasr al-Mujaheed worked with Lexington on holding the ball with his own hands, and throwing the ball with his own arms – not other people’s as he had been doing early in the season.
+
+But, on the bright side, it looks like former Scorpions quarterback Michael Sandero has gone on to great success after graduation. Many of you know, Michael was recruited by a university called Mitch-igan. Mi– Mish– M– Mitch-again. Mitch-igan. Mishigan. Michigan. I’m not a big sports fan myself, so I have no idea what state the University of Mitchigan is located in, but apparently they have just completed an undefeated season with Michael as quarterback, and will compete in the college football playoffs against another school called…Ollabomma. Again, sounds like a private school. I’ve never heard that name before.
+
+Michigan is favored to win the title this year, and Michael is a front-runner for the Heisman Trophy, given to college football’s best player. His control over weather elements and powerful pyrokinesis skills proved invaluable to a previously struggling Mitchigan offense.
+
+Good luck, Michael! Your hometown is cheering for you!
+
+An update on the glowing and shaking monolith:
+
+The earth below it has split open, and the Secret Police have issued a statement saying they regret silencing the original protesters. They have since let the protesters out, asking them to protest a little harder.
+
+“Also, protest closer to the monolith, okay?” the Secret Police shouted at the confused protesters, whose eyes were still adjusting to the bright daylight after being in a dark pen all afternoon. “Try getting right up on the thing, and protesting!” the officers called from behind their cruisers.
+
+The Secret Police also asked counter protesters to try talking to the monolith.
+
+“You like it so much, why don’t you marry it?” the Secret police teased, before adding, “No, no, seriously, go talk to that thing, OK? It is freaking us out!”
+
+But all protesters have scattered from the scene.
+
+The monolith is now shaking violently. I can– I can hear it, here in the station. I can feel it throughout my body. My skin is rattling! I can see the great green glow. It is so bright! The cement walls of our station seem almost to be fading!
+
+So, as our physical being becomes either rent into atomic mist, or subsumed by a sphere of cosmic energy, let me – in my final act as a tangible being – bring you today’s weather.
+
+[“Anything I Want You To” by The Rizzos]
+
+Well, the monolith split open. There was a deafening crack of shattered stone, a flash of blinding light, the stench and taste of sulfur, as we felt rocky dust settling upon our cowardly crouching backs.
+
+In the hazy aftermath we looked for the dead, and found none.
+
+We looked for the wounded, and found none.
+
+We looked for damaged streets and buildings, and found…well, we found presents. We found city streets strewn with gold-wrapped toys and parcels of fine chocolates. There were ornate bags filled with silk scarves and swirling gilded ribbons and glittery notes wishing every person in Night Vale season’s greetings, along with gift cards to popular stores like Target, and the Ralph’s, and Hatred.
+
+Aaah, um, hmm. Look. I hate to rant. But given that Night Vale long ago abolished materialism, this seems like a cruel holiday prank. I– I’m glad no one was hurt, but this whole monolith thing was really annoying! It was not a deadly threat to our city or our lives, merely a time-wasting tribute to the worst qualities of the old gods. It took most of the afternoon to clean this up, but thankfully, it’s all been swept away and dumped into the landfill.
+
+The City Council, upon hearing of the storm of holiday presents upon our town, swiftly and nobly returned from their tax-funded island vacation, and offered their condolences for us having to witness this consumerist assault.
+
+They reminded us that Santa is a CIA-created myth, and that the holidays shouldn’t be about buying things, or getting things, or even giving things.
+
+“Christmas,” they chanted in unison, “is about being a little less distrustful of neighbors. Of casting our eyes down more respectfully when we pass Hooded Figures, or people wearing some kind of official-looking firearm. Christmas is about being at home with family. Doors locked, everyone speaking clearly, and within range of the hidden cameras.”
+
+At that moment, a low-flying police helicopter passed over City Hall, its searchlight frantically flashing across the terrified faces of every single citizen. It was truly a magical Christmas moment, and the whole crowd winced with holiday cheer.
+
+One lone person asked, “But isn’t Christmas a religious holiday? Should the city really be promoting a religious holiday?”
+
+The City Council quickly replied, “Not any religion that we’re aware of!” and the Secret Police kindly ushered that grumpy Scrooge off to a less public place.
+
+Night Vale, sometimes we see something strange and different, and our first reaction is to loathe and fear it, to bring rage and scorn against its very being, but that’s not the Christmas spirit. This is the time of year we must learn to not shout down things we don’t know or understand, but simply hide from them, and later pretend they were never there at all.
+
+And today, we mostly did that. We mostly did good, Night Vale!
+
+Huh. Maybe it will be a merry Christmas for everyone. Maybe, this is an auspicious start to the holidays.
+
+Hey! That’s the best part about the future. Anything you want to be possible is possible – as long as you don’t think about it too hard.
+
+Stay tuned next for the sound of something clawing its way out of your chest.
+
+Goodnight, Night Vale. Goodnight.
+
+Today’s proverb: It’s not the size of the dog in the fight. It’s the size of the other dog in the fight.
